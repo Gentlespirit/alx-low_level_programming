@@ -1,1 +1,1 @@
-This is my first C Programming project
+0x0A. C - argc, argv
